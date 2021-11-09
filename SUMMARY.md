@@ -4,8 +4,10 @@
 
 ## ♨ Rings of Fire
 
-* [The Team](rings-of-fire/the-team.md)
 * [Telegram Channel](rings-of-fire/telegram-channel.md)
 * [For participants](rings-of-fire/for-participants.md)
 * [For ring leaders](rings-of-fire/for-ring-leaders.md)
-* [Guides](rings-of-fire/guides.md)
+* [Guides](rings-of-fire/guides/README.md)
+  * [RingTools (CLI)](rings-of-fire/guides/ringtools-cli.md)
+  * [Ringtools-Web](rings-of-fire/guides/ringtools-web.md)
+  * [Igniter](rings-of-fire/guides/igniter.md)
