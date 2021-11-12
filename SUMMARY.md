@@ -11,3 +11,7 @@
   * [RingTools (CLI)](rings-of-fire/guides/ringtools-cli.md)
   * [Ringtools-Web](rings-of-fire/guides/ringtools-web.md)
   * [Igniter](rings-of-fire/guides/igniter.md)
+
+***
+
+* [Frequently Asked Questions](frequently-asked-questions.md)
