@@ -8,7 +8,8 @@ See the [ringtools-web documentation](https://dsbaars.gitbook.io/ringtools-web/b
 
 1. SSH to your umbrel node
 2. Go to the folder `~/umbrel/apps`
-3. Download the modified registry data `wget https://raw.githubusercontent.com/dsbaars/umbrel/ringtools-web/apps/registry.json`
-4. Create the ringtoolsweb folder and enter it `mkdir ringtoolsweb && cd ringtoolsweb`
-5. Download the docker-compose file `wget https://raw.githubusercontent.com/dsbaars/umbrel/ringtools-web/apps/ringtoolsweb/docker-compose.yml`
-6. Now you can log in to umbrel and find it in the app store (without icon and screenshots unfortunately.
+3. Backup the existing registry data `cp registry.json registry.json.bak`
+4. Download the modified registry data `wget -O registry.json https://raw.githubusercontent.com/dsbaars/umbrel/ringtools-web/apps/registry.json`
+5. Create the ringtoolsweb folder and enter it `mkdir ringtoolsweb && cd ringtoolsweb`
+6. Download the docker-compose file `wget https://raw.githubusercontent.com/dsbaars/umbrel/ringtools-web/apps/ringtoolsweb/docker-compose.yml`
+7. Now you can log in to umbrel and find it in the app store (without icon and screenshots unfortunately.
